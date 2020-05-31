@@ -14,6 +14,12 @@
 
 - [apple - AirPods Pro](https://www.apple.com/kr/airpods-pro/)
 
+## Editor Application
+
+- [Canva](https://www.canva.com/ko_kr/) 그래픽 디자인 플랫폼
+
+- [Google Presentation](https://www.google.com/intl/ko_kr/slides/about/) 구글 프레젠테이션
+
 ## 👀 How to Contribute?
 
 1. 이 레포지토리는 `web Graphics`를 잘 사용한 웹 사이트들을 담습니다.
