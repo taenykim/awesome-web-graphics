@@ -4,7 +4,10 @@
 
 ## Videos
 
-## How to Contribute?
+## 👀 How to Contribute?
 
-1. 이 레포지토리는 `web Graphics`에 대한 모든 정보를 환영합니다.
-2. 각각의 디렉토리의 `How to Contribute`를 참고해주세요.
+1. 이 레포지토리는 6개의 항목(basic, css, canvas, webGL, library, webpages)중에 해당사항이 없는 정보들을 담습니다.
+
+2. 아래 양식을 지켜주세요.
+
+- [글 제목](https://github.com/taenykim/Web_Graphics_Archive) 글에대한설명

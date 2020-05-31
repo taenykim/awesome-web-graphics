@@ -4,7 +4,16 @@
 
 ## Videos
 
-## How to Contribute?
+- [[Track 1-4] 유상엽 - HTML Canvas 어디까지 써봤니](https://youtu.be/SmgIcbMQEGw)
 
-1. 이 레포지토리는 `web Graphics`에 대한 모든 정보를 환영합니다.
-2. 각각의 디렉토리의 `How to Contribute`를 참고해주세요.
+## 👀 How to Contribute?
+
+1. 이 레포지토리는 `canvas` 관련 정보를 담습니다.
+
+> ex. canvas API를 통하여 인터렉션 도구 만들기
+> canvas API를 통하여 애니메이션 만들기
+> canvas 사용법
+
+2. 아래 양식을 지켜주세요.
+
+- [글 제목](https://github.com/taenykim/Web_Graphics_Archive) 글에대한설명

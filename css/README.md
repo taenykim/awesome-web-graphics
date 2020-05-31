@@ -4,7 +4,16 @@
 
 ## Videos
 
-## How to Contribute?
+- [[Track 2-5] 최연규 - 3달간 GitHub 스타3K받은 Scene js,Moveable 오픈소스 개발기](https://youtu.be/3HVQhbtALDE)
 
-1. 이 레포지토리는 `web Graphics`에 대한 모든 정보를 환영합니다.
-2. 각각의 디렉토리의 `How to Contribute`를 참고해주세요.
+## 👀 How to Contribute?
+
+1. 이 레포지토리는 `css` 관련 정보를 담습니다.
+
+> ex. css 속성 정리/모음
+> css flexbox 사용법
+> sass와 styled-components 비교하기
+
+2. 아래 양식을 지켜주세요.
+
+- [글 제목](https://github.com/taenykim/Web_Graphics_Archive) 글에대한설명

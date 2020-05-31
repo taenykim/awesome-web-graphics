@@ -40,13 +40,15 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 
 - [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API)
 
-# 📕 [Library / Open Source](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/library)
+- [webGL 학습 페이지](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1)
 
-# 🌎 [WebPages](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/webpages)
+## 📕 [Library / Open Source](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/library)
 
-# ✈️ [ETC](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/etc)
+## 🌎 [WebPages](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/webpages)
 
-## How to Contribute?
+## ✈️ [ETC](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/etc)
+
+## 👀 How to Contribute?
 
 1. 이 레포지토리는 `web Graphics`에 대한 모든 정보를 환영합니다.
 2. 각각의 디렉토리의 `How to Contribute`를 참고해주세요.
