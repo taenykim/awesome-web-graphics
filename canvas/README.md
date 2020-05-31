@@ -10,7 +10,7 @@
 
 ## Videos
 
-- [[Track 1-4] 유상엽 - HTML Canvas 어디까지 써봤니](https://youtu.be/SmgIcbMQEGw)
+- [[Track 1-4] 유상엽 - HTML Canvas 어디까지 써봤니](https://youtu.be/SmgIcbMQEGw) FEConf Korea 강연
 
 ## 👀 How to Contribute?
 

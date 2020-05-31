@@ -6,7 +6,7 @@
 
 ## Tutorial
 
-- [Graphics - W3C](https://www.w3.org/standards/webdesign/graphics)
+- [Graphics - W3C](https://www.w3.org/standards/webdesign/graphics) Graphics - W3C
 
 ## Articles
 

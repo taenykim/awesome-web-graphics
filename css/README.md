@@ -8,7 +8,7 @@
 
 ## Videos
 
-- [[Track 2-5] 최연규 - 3달간 GitHub 스타3K받은 Scene js,Moveable 오픈소스 개발기](https://youtu.be/3HVQhbtALDE)
+- [[Track 2-5] 최연규 - 3달간 GitHub 스타3K받은 Scene js,Moveable 오픈소스 개발기](https://youtu.be/3HVQhbtALDE) FEConf Korea 강연
 
 ## 👀 How to Contribute?
 
