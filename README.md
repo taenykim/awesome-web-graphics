@@ -50,6 +50,6 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 
 ## 👀 How to Contribute?
 
-1. 이 레포지토리는 `web Graphics`에 대한 모든 정보를 환영합니다.
+1. `web Graphics`에 대한 모든 정보를 환영합니다.
 2. 각각의 디렉토리의 `How to Contribute`를 참고해주세요.
 3. 항목추가/수정, 개선점에 대한 문의도 언제나 환영입니다.
