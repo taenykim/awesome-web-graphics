@@ -3,7 +3,6 @@
 ## Tutorial
 
 - [canvas API - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas)
-
 - [The Coding Train](https://www.youtube.com/user/shiffman/featured)
 
 ## Articles

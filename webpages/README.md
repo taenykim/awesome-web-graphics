@@ -3,21 +3,17 @@
 ## Reference Site
 
 - [codepen.io](https://codepen.io/)
-
 - [awwwards](https://www.awwwards.com/)
 
 ## Interactive pages
 
 - [How big is the DMZ? - Washington Post](https://www.washingtonpost.com/graphics/2017/world/mapping-the-dmz/?noredirect=on)
-
 - [중앙일보 - 그 곳 판문점](https://news.joins.com/digitalspecial/290)
-
 - [apple - AirPods Pro](https://www.apple.com/kr/airpods-pro/)
 
 ## Editor Application
 
 - [Canva](https://www.canva.com/ko_kr/) 그래픽 디자인 플랫폼
-
 - [Google Presentation](https://www.google.com/intl/ko_kr/slides/about/) 구글 프레젠테이션
 
 ## 👀 How to Contribute?

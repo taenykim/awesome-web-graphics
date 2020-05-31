@@ -3,7 +3,6 @@
 ## Tutorial
 
 - [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API)
-
 - [webGL 학습 페이지](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1)
 
 ## Articles
@@ -11,7 +10,6 @@
 ## Videos
 
 - [[A3] 생각보다 쉬운 webGL (feat. three.js) - 전기환](https://youtu.be/b3vP6wfpqWE) FEConf Korea 강연
-
 - [Canvas & WebGL을 이용한 이미지 필터 제작](https://youtu.be/EGk-Q9f0Nqg) Naver D2
 
 ## 👀 How to Contribute?
