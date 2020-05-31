@@ -13,7 +13,7 @@
 3. [canvas](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/canvas)
 4. [webGL](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/webGL)
 5. [library / open source](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/library)
-6. [webpages](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/webpages)
+6. [web pages](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/webpages)
 7. [etc](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/etc)
 
 # 📐 [Basic](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/basic)
@@ -28,7 +28,7 @@ Cascading Style Sheets(CSS)는 HTML이나 XML(SVG, XHTML 같은 XML 방언(diale
 
 - [CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-# 🎨 [canvas](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/canvas)
+# 🎨 [Canvas](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/canvas)
 
 Canvas API는 JavaScript와 HTML `<canvas>` 엘리먼트를 통해 그래픽을 그리기위한 수단을 제공합니다. 무엇보다도 애니메이션, 게임 그래픽, 데이터 시각화, 사진 조작 및 실시간 비디오 처리를 위해 사용됩니다.
 
@@ -44,7 +44,7 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 
 ## 📕 [Library / Open Source](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/library)
 
-## 🌎 [WebPages](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/webpages)
+## 🌎 [Web Pages](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/webpages)
 
 ## ✈️ [ETC](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/etc)
 
@@ -52,3 +52,4 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 
 1. 이 레포지토리는 `web Graphics`에 대한 모든 정보를 환영합니다.
 2. 각각의 디렉토리의 `How to Contribute`를 참고해주세요.
+3. 항목추가/수정, 개선점에 대한 문의도 언제나 환영입니다.

@@ -4,6 +4,10 @@
 
 # Tech
 
+## Tutorial
+
+- [Graphics - W3C](https://www.w3.org/standards/webdesign/graphics)
+
 ## Articles
 
 ## Videos
@@ -23,19 +27,29 @@
 **Tech**
 
 > ex. 이미지 표현방식 (비트맵, 벡터, svg 등)
+
 > 영상 표현방식 (프레임, 실제 영상과 만들어낸 그래픽의 차이)
+
 > 디지털 타이포그래피 (otf, ttf, woff)
+
 > 그래픽작업 : 동작방식 (position, scale, rotation)
+
 > 그래픽스 저장방식 (JSON, Blob 등)
+
 > 그래픽스 가공방식 (렌더링, 이벤트처리 등)
 
 **Essay**
 
 > ex. web Graphics 공부를 시작하며
+
 > web Graphics 의 중요성
+
 > web Graphics 시장 수요 및동향
+
 > web Graphics 웹 사이트 분석
 
 2. 아래 양식을 지켜주세요.
 
+```
 - [글 제목](https://github.com/taenykim/Web_Graphics_Archive) 글에대한설명
+```

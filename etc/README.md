@@ -1,4 +1,4 @@
-# ETC
+# ✈️ ETC
 
 ## Articles
 
@@ -10,4 +10,6 @@
 
 2. 아래 양식을 지켜주세요.
 
+```
 - [글 제목](https://github.com/taenykim/Web_Graphics_Archive) 글에대한설명
+```
