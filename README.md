@@ -40,7 +40,7 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 
 - [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API)
 
-- [webGL 학습 페이지](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1)
+- [webGL Guide](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1)
 
 ## 📕 [Library / Open Source](https://github.com/taenykim/Web_Graphics_Archive/tree/docs/updateReadme/library)
 

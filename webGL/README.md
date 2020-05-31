@@ -2,8 +2,8 @@
 
 ## Tutorial
 
-- [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API)
-- [webGL 학습 페이지](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1)
+- [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API) WebGL - MDN
+- [webGL Guide](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1) Maxime Euzière WebGL 튜토리얼
 
 ## Articles
 

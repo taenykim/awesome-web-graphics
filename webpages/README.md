@@ -2,14 +2,14 @@
 
 ## Reference Site
 
-- [codepen.io](https://codepen.io/)
-- [awwwards](https://www.awwwards.com/)
+- [codepen.io](https://codepen.io/) 코드펜
+- [awwwards](https://www.awwwards.com/) 어워드
 
 ## Interactive pages
 
-- [How big is the DMZ? - Washington Post](https://www.washingtonpost.com/graphics/2017/world/mapping-the-dmz/?noredirect=on)
-- [중앙일보 - 그 곳 판문점](https://news.joins.com/digitalspecial/290)
-- [apple - AirPods Pro](https://www.apple.com/kr/airpods-pro/)
+- [How big is the DMZ? - Washington Post](https://www.washingtonpost.com/graphics/2017/world/mapping-the-dmz/?noredirect=on) Washington Post
+- [중앙일보 - 그 곳 판문점](https://news.joins.com/digitalspecial/290) 중앙일보
+- [apple - AirPods Pro](https://www.apple.com/kr/airpods-pro/) apple
 
 ## Editor Application
 
