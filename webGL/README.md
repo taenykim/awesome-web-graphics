@@ -1,13 +1,13 @@
 # 🤹‍♀️ WebGL
 
+WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우저에서 상호작용 가능한 3D와 2D 그래픽을 표현하기 위한 JavaScript API입니다. WebGL은 HTML5 `<canvas>` 요소에서 사용할 수 있는, OpenGL ES 2.0을 대부분 충족하는 API를 제공합니다.
+
 ## Tutorial
 
 - [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API) WebGL - MDN
 - [webGL Guide](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1) Maxime Euzière WebGL 튜토리얼
 
-## Articles
-
-## Videos
+## Undefined
 
 - [[A3] 생각보다 쉬운 webGL (feat. three.js) - 전기환](https://youtu.be/b3vP6wfpqWE) FEConf Korea 강연
 - [Canvas & WebGL을 이용한 이미지 필터 제작](https://youtu.be/EGk-Q9f0Nqg) Naver D2

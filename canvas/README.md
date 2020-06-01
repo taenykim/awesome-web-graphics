@@ -1,13 +1,13 @@
 # 🎨 Canvas
 
+Canvas API는 JavaScript와 HTML `<canvas>` 엘리먼트를 통해 그래픽을 그리기위한 수단을 제공합니다. 무엇보다도 애니메이션, 게임 그래픽, 데이터 시각화, 사진 조작 및 실시간 비디오 처리를 위해 사용됩니다.
+
 ## Tutorial
 
 - [canvas API - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas) Canvas API - MDN
 - [The Coding Train](https://www.youtube.com/user/shiffman/featured) p5js Tutorial
 
-## Articles
-
-## Videos
+## Undefined
 
 - [[Track 1-4] 유상엽 - HTML Canvas 어디까지 써봤니](https://youtu.be/SmgIcbMQEGw) FEConf Korea 강연
 
