@@ -8,17 +8,17 @@
 
 - [Graphics - W3C](https://www.w3.org/standards/webdesign/graphics) Graphics - W3C
 
-## Articles
+## Computer Graphics
+
+- [영상처리, 시각화, 컴퓨터 그래픽스, 컴퓨터 비전](http://blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=220691954109&parentCategoryNo=&categoryNo=446&viewDate=&isShowPopularPosts=true&from=search) 영상처리, 시각화, 컴퓨터 그래픽스, 컴퓨터 비전
+- [컴퓨터 그래픽스 - 위키백과](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4)
+- [렌더링 - 위키백과](https://ko.wikipedia.org/wiki/%EB%A0%8C%EB%8D%94%EB%A7%81)
 
 ## Videos
 
-# Essay
-
-## Articles
+## Essay
 
 - [🧙‍♂️ 개발자 2차 전직하기 - Web Graphics](https://taeny.dev/essay/%EA%B0%9C%EB%B0%9C%EC%9E%90-2%EC%B0%A8-%EC%A0%84%EC%A7%81-%ED%95%98%EA%B8%B0/) 웹 그래픽스에 관심을 갖게된 과정과, 앞으로 공부할 것들에 대해서 정리한 포스팅
-
-## Videos
 
 ## 👀 How to Contribute?
 
@@ -55,6 +55,5 @@
 - [글 제목](https://github.com/taenykim/Web_Graphics_Archive) 글에대한설명
 
 // 커밋 양식
-- Update : 커밋메시지(자유롭게) (날짜)
-ex) Update : CSS관련 아티클 추가 (2020-06-01)
+- Update : 커밋메시지(자유롭게)
 ```
