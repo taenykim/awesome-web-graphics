@@ -15,6 +15,5 @@
 - [글 제목](https://github.com/taenykim/Web_Graphics_Archive) 글에대한설명
 
 // 커밋 양식
-- Update : 커밋메시지(자유롭게) (날짜)
-ex) Update : CSS관련 아티클 추가 (2020-06-01)
+- Update : 커밋메시지(자유롭게)
 ```
