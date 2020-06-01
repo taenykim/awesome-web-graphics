@@ -12,6 +12,7 @@
 - [그래픽 - 위키백과](https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9E%98%ED%94%BD) 그래픽
 - [컴퓨터 그래픽스 - 위키백과](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4) 컴퓨터 그래픽스
 - [렌더링 - 위키백과](https://ko.wikipedia.org/wiki/%EB%A0%8C%EB%8D%94%EB%A7%81) 렌더링
+- [📐 웹 그래픽스, 렌더링 과정, 렌더링 최적화 - Taenylog](https://taeny.dev/graphics/graphics-rendering/) 웹 그래픽스, 렌더링과정, 렌더링 최적화에 관한 정리글
 
 ## Browser Rendering
 
@@ -25,6 +26,7 @@
 - [객체 모델 생성](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=ko) 객체 모델 생성 - Ilya Grigorik
 - [브라우저 렌더링 과정 - Reflow Repaint, 그리고 성능 최적화](https://boxfoxs.tistory.com/408) 브라우저 렌더링 과정 - 박스여우
 - [2019년 브라우저의 상태 - 조은](https://medium.com/@euncho/2019%EB%85%84-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EC%83%81%ED%83%9C-e73ab86bcbd0) 2019년 브라우저의 상태 - 조은
+- [FrontEnd 개발자가 수행하는 성능 개선 작업](https://sculove.github.io/slides/improveBrowserRendering/#/) FrontEnd 개발자가 수행하는 성능 개선 작업
 
 ## Essay
 
