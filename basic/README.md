@@ -41,6 +41,7 @@
 - [미디어 파일 포맷의 종류](https://blog.kollus.com/?p=31) 미디어 파일 포맷의 종류
 - [MP4, AVI, TS, .. 동영상 확장자의 차이](https://m.blog.naver.com/wisestone2007/220929143889) MP4, AVI, TS, .. 동영상 확장자의 차이 - 와이즈스톤
 - [가장 일반적인 5가지 비디오 형식에 대해 알아야 할 사항들](https://www.motionelements.com/blog/ko/articles/what-you-need-to-know-about-the-5-most-common-video-file-formats) 가장 일반적인 5가지 비디오 형식에 대해 알아야 할 사항들 | MotionElements
+- [💾 0101 그래픽 데이터 (읽고 쓰고 맛보고 즐기고)](https://taeny.dev/graphics/web-file/) 그래픽 데이터 정리글
 
 ## Essay
 
