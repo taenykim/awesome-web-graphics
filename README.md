@@ -26,6 +26,10 @@ Basic
 ├── Computer Graphics
 ├── Browser Rendering
 ├── File
+├── Markup File
+├── Image File
+├── Video File
+├── Font
 ├── Essay
 ```
 
