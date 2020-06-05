@@ -10,6 +10,7 @@ Canvas API는 JavaScript와 HTML `<canvas>` 엘리먼트를 통해 그래픽을 
 ## Undefined
 
 - [[Track 1-4] 유상엽 - HTML Canvas 어디까지 써봤니](https://youtu.be/SmgIcbMQEGw) FEConf Korea 강연
+- [SVG와 CANVAS 사이의 선택](https://techbug.tistory.com/207) svg와 canvas 비교글
 
 ## 👀 How to Contribute?
 
