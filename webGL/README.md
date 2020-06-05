@@ -11,6 +11,7 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 
 - [[A3] 생각보다 쉬운 webGL (feat. three.js) - 전기환](https://youtu.be/b3vP6wfpqWE) FEConf Korea 강연
 - [Canvas & WebGL을 이용한 이미지 필터 제작](https://youtu.be/EGk-Q9f0Nqg) Naver D2
+- [나의 버건디 팔면체 : Three.js를 사용한 3D 그래픽스 입문기](https://ahnheejong.name/articles/my-first-octahedron/) 나의 버건디 팔면체 : Three.js를 사용한 3D 그래픽스 입문기
 
 ## 👀 How to Contribute?
 
