@@ -57,6 +57,7 @@
 - [TTF? OTF? 차이점 알아보기](https://zeddios.tistory.com/198) TTF? OTF? 차이점 알아보기 - ZeddiOS
 - [WOFF - 나무위키](https://namu.wiki/w/WOFF) WOFF - 나무위키
 - [세리프와 산세리프만 알면 된다고요?](https://brunch.co.kr/@jmlee9762/12) 당신이 몰랐던 수많은 폰트의 종류 - 헬베티카
+- [lqez/awesome-hangul](https://github.com/lqez/awesome-hangul) 한글 관련 라이브러리 모음
 
 ## Essay
 
