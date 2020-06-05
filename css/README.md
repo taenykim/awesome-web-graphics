@@ -39,6 +39,7 @@ Cascading Style Sheets(CSS)는 HTML이나 XML(SVG, XHTML 같은 XML 방언(diale
 - [Ceaser - CSS Easing Animation Tool](https://matthewlein.com/tools/ceaser) CSS EASING ANIMATION TOOL
 - [Web이나 App에서 애니메이션을 표시한다면 "Lottie" - 탁이로그](https://tagilog.tistory.com/620) Lottie의 특징, 사용법을 정리한 글
 - [Barba.js](https://barba.js.org/) 부드러운 페이지전환 애니메이션 라이브러리
+- [CSS 애니메이션의 성능 아는 만큼 좋아져요! | WIT블로그](https://wit.nts-corp.com/2020/06/05/6134?fbclid=IwAR147toQIEWLcrZAvkrHmbupRMpqk-AqQuLBGFvh2EWiu_WSnHbz1sEQeKU) CSS 애니메이션 성능에 대한 글
 
 ## 👀 How to Contribute?
 
