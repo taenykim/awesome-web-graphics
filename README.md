@@ -70,19 +70,7 @@ WebGL
 
 ## 📕 [Library / Open Source](https://github.com/taenykim/Web_Graphics_Archive/tree/master/library)
 
-```
-Library / Open Source
-├── Undefined
-```
-
 ## 🌎 [Web Pages](https://github.com/taenykim/Web_Graphics_Archive/tree/master/webpages)
-
-```
-Web Pages
-├── Reference Site
-├── Interactive pages
-├── Editor Application
-```
 
 ## ✈️ [ETC](https://github.com/taenykim/Web_Graphics_Archive/tree/master/etc)
 
