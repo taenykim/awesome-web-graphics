@@ -56,6 +56,7 @@ Canvas API는 JavaScript와 HTML `<canvas>` 엘리먼트를 통해 그래픽을 
 ```
 Canvas
 ├── Tutorial
+├── Animation
 ├── Undefined
 ```
 
@@ -66,6 +67,7 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 ```
 WebGL
 ├── Tutorial
+├── Basic
 ├── Shader
 ├── Undefined
 ```

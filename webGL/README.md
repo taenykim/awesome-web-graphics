@@ -7,6 +7,11 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 - [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API) WebGL - MDN
 - [webGL Guide](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1) Maxime Euzière WebGL 튜토리얼
 
+## Basic
+
+- [OpenGL - 나무위키](https://namu.wiki/w/OpenGL) OpenGL - 나무위키
+- [The OpenGL® ES Shading Language](http://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf) OpenGL 셰이딩언어 (pdf문서)
+
 ## Shader
 
 - [셰이더 - 위키백과](https://ko.wikipedia.org/wiki/%EC%85%B0%EC%9D%B4%EB%8D%94) 셰이더 - 위키백과
