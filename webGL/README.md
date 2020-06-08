@@ -7,6 +7,11 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 - [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API) WebGL - MDN
 - [webGL Guide](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1) Maxime Euzière WebGL 튜토리얼
 
+## Shader
+
+- [셰이더 - 위키백과](https://ko.wikipedia.org/wiki/%EC%85%B0%EC%9D%B4%EB%8D%94) 셰이더 - 위키백과
+- [셰이더가 뭐에요?](https://www.slideshare.net/jungsoopark104/ss-63417653) 셰이더가 뭐에요? - Jungsoo Park님의 슬라이더 자료
+
 ## Undefined
 
 - [[A3] 생각보다 쉬운 webGL (feat. three.js) - 전기환](https://youtu.be/b3vP6wfpqWE) FEConf Korea 강연
