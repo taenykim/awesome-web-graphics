@@ -30,6 +30,7 @@ Basic
 ├── Image File
 ├── Video File
 ├── Font
+├── HTTP
 ├── Essay
 ```
 
