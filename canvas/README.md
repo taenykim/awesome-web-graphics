@@ -7,6 +7,11 @@ Canvas API는 JavaScript와 HTML `<canvas>` 엘리먼트를 통해 그래픽을 
 - [canvas API - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas) Canvas API - MDN
 - [The Coding Train](https://www.youtube.com/user/shiffman/featured) p5js Tutorial
 
+## Animation
+
+- [기본 애니메이션 - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas/Tutorial/Basic_animations) MDN 애니메이션 예제
+- [Exemples Canvas-Javascript](http://www.blackmisery.com/cours/html5/exercices.htm) 캔버스 애니메이션 몇가지 예제
+
 ## Undefined
 
 - [[Track 1-4] 유상엽 - HTML Canvas 어디까지 써봤니](https://youtu.be/SmgIcbMQEGw) FEConf Korea 강연
