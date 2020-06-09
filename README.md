@@ -13,9 +13,10 @@
         <a href="https://github.com/taenykim/Web_Graphics_Archive/tree/master/webpages">web pages</a> |
         <a href="https://github.com/taenykim/Web_Graphics_Archive/tree/master/etc">etc</a>
     </div>
-       <div style="margin:12px 0px 12px 0px">
-        dd
-    </div>
+    <br>
+    ㅇㅇ
+    <br>
+
 </div>
 
 ## 📐 [Basic](https://github.com/taenykim/Web_Graphics_Archive/tree/master/basic)
