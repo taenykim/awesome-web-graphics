@@ -1,9 +1,10 @@
-<div align="center"><h1> 🎨 Awesome Web Graphics 💄 </h1><p></p></div>
+<div align="center"><h1> Awesome Web Graphics </h1><p></p></div>
 <div align="center">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" />
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
     <img src="https://img.shields.io/badge/version-beta-blue" />
     <div>
+        <div>🎨 A collection of WEB Graphics 💄</div>
         <a href="https://github.com/taenykim/Web_Graphics_Archive/tree/master/basic">basic</a> |
         <a href="https://github.com/taenykim/Web_Graphics_Archive/tree/master/css">CSS</a> |
         <a href="https://github.com/taenykim/Web_Graphics_Archive/tree/master/canvas">canvas</a> |
