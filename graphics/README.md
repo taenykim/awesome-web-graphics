@@ -1,4 +1,4 @@
-# 📐 Basic
+# 📐 Graphics
 
 **Web graphics** are visual representations used on a Web site to enhance or enable the representation of an idea or feeling, in order to reach the Web site user. Graphics may entertain, educate, or emotionally impact the user, and are crucial to strength of branding, clarity of illustration, and ease of use for interfaces. -[W3C](https://www.w3.org/standards/webdesign/graphics)
 
@@ -60,13 +60,8 @@
 - [lqez/awesome-hangul](https://github.com/lqez/awesome-hangul) 한글 관련 라이브러리 모음
 - [[영감] 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트](https://youtu.be/sb7v-d-R11E) [영상][영감] 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트
 
-## HTTP
-
-- [교차 출처 리소스 공유 (CORS) - HTTP | MDN](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS) 교차 출처 리소스 공유 (CORS) - HTTP | MDN
-
 ## Essay
 
-- [🧙‍♂️ 개발자 2차 전직하기 - Web Graphics](https://taeny.dev/essay/%EA%B0%9C%EB%B0%9C%EC%9E%90-2%EC%B0%A8-%EC%A0%84%EC%A7%81-%ED%95%98%EA%B8%B0/) 웹 그래픽스에 관심을 갖게된 과정과, 앞으로 공부할 것들에 대해서 정리한 포스팅
 - [Move over, data visualization. The era of ‘data simulation’ is here](https://www.fastcompany.com/90508780/move-over-data-visualization-the-era-of-data-simulation-is-here?fbclid=IwAR2NcDdhYZV68fpsIaJXzmD0u8Lq2vVSFT7434-Qc1bxRxqdwy_ECh6--X0) "데이터 시각화 단계를 넘어 '데이터 시뮬레이션'의 시대가 열렸습니다." 데이터 시뮬레이션 관련 아티클
 
 ## 👀 How to Contribute?
