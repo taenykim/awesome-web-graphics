@@ -1,12 +1,10 @@
 <div align="center"><h1> Awesome Web Graphics </h1><p></p></div>
 
-<div>CSS | Canvas | WebGL | 3D | SVG | Interaction | UX | Image processing | Data visualization </div>
-
 <div align="center">
+    <div>CSS | Canvas | WebGL | 3D | SVG | Interaction | UX | Image processing | Data visualization </div>
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" />
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-    <img src="https://img.shields.io/badge/version-1.2.3-blue" />
-    <div>🎨 Share all WEB Graphics 💄</div>
+    <img src="https://img.shields.io/badge/version-beta" />
 </div>
 
 # 📄 Table of Contents
