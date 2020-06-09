@@ -12,6 +12,7 @@ WebGL(Web Graphics Library)은 플러그인을 사용하지 않고 웹 브라우
 
 - [OpenGL - 나무위키](https://namu.wiki/w/OpenGL) OpenGL - 나무위키
 - [The OpenGL® ES Shading Language](http://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf) OpenGL 셰이딩언어 (pdf문서)
+- [Matrix math for the web | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Matrix_math_for_the_web) Matrix math for the web
 
 ## Shader
 
