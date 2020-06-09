@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/version-beta-blue" />
     <div>
         <div>🎨 A collection of WEB Graphics 💄</div>
+        <a href="https://github.com/taenykim/Web_Graphics_Archive/tree/master/web">web</a> |
         <a href="https://github.com/taenykim/Web_Graphics_Archive/tree/master/graphics">graphics</a> |
         <a href="https://github.com/taenykim/Web_Graphics_Archive/tree/master/css">CSS</a> |
         <a href="https://github.com/taenykim/Web_Graphics_Archive/tree/master/canvas">canvas</a> |
