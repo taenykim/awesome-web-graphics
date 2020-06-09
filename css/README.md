@@ -1,6 +1,6 @@
 # 💄 CSS
 
-Cascading Style Sheets(CSS)는 HTML이나 XML(SVG, XHTML 같은 XML 방언(dialect) 포함)로 작성된 문서의 표현을 기술하기 위해 쓰이는 스타일시트 언어입니다. CSS는 요소가 화면, 종이, 음성이나 다른 매체 상에 어떻게 렌더링되어야 하는지 기술합니다.
+**Cascading Style Sheets (CSS)** is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. -[MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Tutorial
 
@@ -43,20 +43,4 @@ Cascading Style Sheets(CSS)는 HTML이나 XML(SVG, XHTML 같은 XML 방언(diale
 
 ## 👀 How to Contribute?
 
-1. 이 레포지토리는 `css` 관련 정보를 담습니다.
-
-> ex. css 속성 정리/모음
-
-> css flexbox 사용법
-
-> sass와 styled-components 비교하기
-
-2. 아래 양식을 지켜주세요.
-
-```
-// 컨텐츠 양식
-- [글 제목](https://github.com/taenykim/Web_Graphics_Archive) 글에대한설명
-
-// 커밋 양식
-- Update : 커밋메시지(자유롭게)
-```
+coming soon..!
