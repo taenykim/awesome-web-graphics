@@ -4,11 +4,11 @@
 
 ## Tutorial
 
-- [Graphics - W3C](https://www.w3.org/standards/webdesign/graphics) Graphics - W3C
+- 🌎 [Graphics - W3C](https://www.w3.org/standards/webdesign/graphics) Graphics - W3C
 
 ## Computer Graphics
 
-- [영상처리, 시각화, 컴퓨터 그래픽스, 컴퓨터 비전](http://blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=220691954109&parentCategoryNo=&categoryNo=446&viewDate=&isShowPopularPosts=true&from=search) 영상처리, 시각화, 컴퓨터 그래픽스, 컴퓨터 비전
+- 🇰🇷 [영상처리, 시각화, 컴퓨터 그래픽스, 컴퓨터 비전](http://blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=220691954109&parentCategoryNo=&categoryNo=446&viewDate=&isShowPopularPosts=true&from=search) 영상처리, 시각화, 컴퓨터 그래픽스, 컴퓨터 비전
 - [그래픽 - 위키백과](https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9E%98%ED%94%BD) 그래픽
 - [컴퓨터 그래픽스 - 위키백과](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4) 컴퓨터 그래픽스
 - [렌더링 - 위키백과](https://ko.wikipedia.org/wiki/%EB%A0%8C%EB%8D%94%EB%A7%81) 렌더링
