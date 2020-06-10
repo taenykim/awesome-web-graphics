@@ -4,18 +4,18 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 
 ## Tutorial
 
-- [canvas API - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas) Canvas API - MDN
-- [The Coding Train](https://www.youtube.com/user/shiffman/featured) p5js Tutorial
+- [canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) canvas API | MDN
 
 ## Animation
 
-- [기본 애니메이션 - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas/Tutorial/Basic_animations) MDN 애니메이션 예제
-- [Exemples Canvas-Javascript](http://www.blackmisery.com/cours/html5/exercices.htm) 캔버스 애니메이션 몇가지 예제
+- [Basic animations | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations) Basic animations | MDN
 
 ## Undefined
 
 - [[Track 1-4] 유상엽 - HTML Canvas 어디까지 써봤니](https://youtu.be/SmgIcbMQEGw) FEConf Korea 강연
 - [SVG와 CANVAS 사이의 선택](https://techbug.tistory.com/207) svg와 canvas 비교글
+- 📕[p5.js](https://p5js.org/) A JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else
+- 📕[Fabric.js](http://fabricjs.com/) A powerful and simple Javascript HTML5 canvas library
 
 ## 👀 How to Contribute?
 
