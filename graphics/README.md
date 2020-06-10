@@ -8,12 +8,14 @@
 - [Graphics | W3C](https://www.w3.org/standards/webdesign/graphics) Graphics | W3C
 - [Web media technologies](https://developer.mozilla.org/en-US/docs/Web/Media) Web media technologies | MDN
 
+
 ## File
 
 - [Filename extension](https://en.wikipedia.org/wiki/Filename_extension) Filename extension | Wikipedia
 - [List of file formats](https://en.wikipedia.org/wiki/List_of_file_formats) List of file formats | Wikipedia
 - [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding) Character encodings for beginners | W3C
 - [인코딩](https://namu.wiki/w/%EC%9D%B8%EC%BD%94%EB%94%A9) 🇰🇷 인코딩 | 나무위키
+
 
 ## Markup File
 
@@ -43,6 +45,7 @@
 - [Adobe Font](https://fonts.adobe.com/) 📕 Adobe Font
 - [DaFont](https://www.dafont.com/) 📕 DaFont
 - [awesome-hangul](https://github.com/lqez/awesome-hangul) 📕🇰🇷 한글 관련 라이브러리 모음 - lqez
+
 
 ## 👀 How to Contribute?
 
