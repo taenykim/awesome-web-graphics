@@ -2,8 +2,8 @@
 
 ## Reference Site
 
-- [codepen.io](https://codepen.io/) 코드펜
-- [awwwards](https://www.awwwards.com/) 어워드
+- [codepen.io](https://codepen.io/) codepen.io
+- [awwwards](https://www.awwwards.com/) awwwards
 
 ## Interactive pages
 
@@ -15,7 +15,7 @@
 - [Google I/O Collaboration of the cosmos](https://events.google.com/io/mission/) Google I/O Collaboration of the cosmos
 - [30 experimental webgl websites](https://www.awwwards.com/30-experimental-webgl-websites.html) 30 experimental webgl websites - awwwards
 
-## Editor Application
+## Editor application
 
 - [Canva](https://www.canva.com/ko_kr/) 그래픽 디자인 플랫폼
 - [Google Presentation](https://www.google.com/intl/ko_kr/slides/about/) 구글 프레젠테이션

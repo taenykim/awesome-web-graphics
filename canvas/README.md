@@ -5,7 +5,6 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 ## Tutorial
 
 - [canvas API - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas) Canvas API - MDN
-- [The Coding Train](https://www.youtube.com/user/shiffman/featured) p5js Tutorial
 
 ## Animation
 
