@@ -4,20 +4,13 @@
 
 ## Tutorial
 
-- [Graphics - W3C](https://www.w3.org/standards/webdesign/graphics) Graphics - W3C
-
-## Computer Graphics
-
-- [영상처리, 시각화, 컴퓨터 그래픽스, 컴퓨터 비전](http://blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=220691954109&parentCategoryNo=&categoryNo=446&viewDate=&isShowPopularPosts=true&from=search) 영상처리, 시각화, 컴퓨터 그래픽스, 컴퓨터 비전
-- [그래픽 - 위키백과](https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9E%98%ED%94%BD) 그래픽
-- [컴퓨터 그래픽스 - 위키백과](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4) 컴퓨터 그래픽스
-- [렌더링 - 위키백과](https://ko.wikipedia.org/wiki/%EB%A0%8C%EB%8D%94%EB%A7%81) 렌더링
-- [📐 웹 그래픽스, 렌더링 과정, 렌더링 최적화](https://taeny.dev/graphics/graphics-rendering/) 웹 그래픽스, 렌더링과정, 렌더링 최적화에 관한 정리글
+- [Graphics | Wikipedia](https://en.wikipedia.org/wiki/Graphics) Graphics | Wikipedia
+- [Graphics | W3C](https://www.w3.org/standards/webdesign/graphics) Graphics | W3C
 
 ## File
 
-- [컴퓨터 파일 - 위키백과](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%ED%8C%8C%EC%9D%BC) 컴퓨터 파일 - 위키백과
-- [[텀즈] 파일 확장자 목록](http://www.terms.co.kr/filename-extensions.htm) 전세계의 모든 파일형식들 모음 (파일 확장자 목록)
+- [Filename extension](https://en.wikipedia.org/wiki/Filename_extension) Filename extension | Wikipedia
+- [List of file formats](https://en.wikipedia.org/wiki/List_of_file_formats) List of file formats | Wikipedia
 - [인코딩 - 나무위키](https://namu.wiki/w/%EC%9D%B8%EC%BD%94%EB%94%A9) 인코딩 - 나무위키
 - [[일반] 코덱? 인코딩? 디코딩?](https://letitkang.tistory.com/83) 코덱, 인코딩, 디코딩 정의
 - [💾 0101 그래픽 데이터 (읽고 쓰고 맛보고 즐기고)](https://taeny.dev/graphics/web-file/) 그래픽 데이터 정리글
@@ -45,10 +38,6 @@
 - [세리프와 산세리프만 알면 된다고요?](https://brunch.co.kr/@jmlee9762/12) 당신이 몰랐던 수많은 폰트의 종류 - 헬베티카
 - [lqez/awesome-hangul](https://github.com/lqez/awesome-hangul) 한글 관련 라이브러리 모음
 - [[영감] 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트](https://youtu.be/sb7v-d-R11E) [영상][영감] 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트
-
-## Essay
-
-- [Move over, data visualization. The era of ‘data simulation’ is here](https://www.fastcompany.com/90508780/move-over-data-visualization-the-era-of-data-simulation-is-here?fbclid=IwAR2NcDdhYZV68fpsIaJXzmD0u8Lq2vVSFT7434-Qc1bxRxqdwy_ECh6--X0) "데이터 시각화 단계를 넘어 '데이터 시뮬레이션'의 시대가 열렸습니다." 데이터 시뮬레이션 관련 아티클
 
 ## 👀 How to Contribute?
 

@@ -35,7 +35,6 @@ WEB
 ```
 Graphics
 ├── Tutorial
-├── Computer Graphics
 ├── File
 ├── Markup File
 ├── Image File
