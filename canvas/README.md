@@ -4,12 +4,11 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 
 ## Tutorial
 
-- [canvas API - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas) Canvas API - MDN
+- [canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) canvas API | MDN
 
 ## Animation
 
-- [기본 애니메이션 - HTML: Hypertext Markup Language | MDN](https://developer.mozilla.org/ko/docs/Web/HTML/Canvas/Tutorial/Basic_animations) MDN 애니메이션 예제
-- [Exemples Canvas-Javascript](http://www.blackmisery.com/cours/html5/exercices.htm) 캔버스 애니메이션 몇가지 예제
+- [Basic animations | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations) Basic animations | MDN
 
 ## Undefined
 
