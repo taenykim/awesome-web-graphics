@@ -1,10 +1,4 @@
-# 📕 Library / Open Source
-
-## Undefined
-
-- [scenejs](https://github.com/daybrush/scenejs) JavaScript & CSS timeline-based animation library
-- [pixiJS](https://www.pixijs.com/) pixiJS
-- [three.js](https://threejs.org/) three.js
+# 📕 Library
 
 ## Font
 
@@ -33,6 +27,7 @@
 - [Ceaser](https://matthewlein.com/tools/ceaser) CSS Easing Animation Tool
 - [Lottie](https://airbnb.io/lottie/#/) A library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web
 - [Barba.js](https://barba.js.org/) A small and easy-to-use library that helps you create fluid and smooth transitions between your website’s pages
+- [Scene.js](https://daybrush.com/scenejs/) JavaScript & CSS timeline-based animation library
 
 ## Canvas
 
