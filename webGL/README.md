@@ -4,20 +4,19 @@
 
 ## Tutorial
 
-- [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API) WebGL - MDN
-- [webGL Guide](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1) Maxime Euzière WebGL 튜토리얼
+- [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API) WebGL | MDN
+- [webGL Guide - Maxime Euzière](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1) WebGL Guide - Maxime Euzière
 - [WebGL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/webgl/index.htm) WebGL Tutorial - Tutorialspoint
 
 ## Basic
 
-- [OpenGL - 나무위키](https://namu.wiki/w/OpenGL) OpenGL - 나무위키
-- [The OpenGL® ES Shading Language](http://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf) OpenGL 셰이딩언어 (pdf문서)
+- [The OpenGL® ES Shading Language](http://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf) The OpenGL® ES Shading Language spec
 - [Matrix math for the web | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Matrix_math_for_the_web) Matrix math for the web
+- 🇰🇷[OpenGL - 나무위키](https://namu.wiki/w/OpenGL) OpenGL - 나무위키
 
 ## Shader
 
-- [셰이더 - 위키백과](https://ko.wikipedia.org/wiki/%EC%85%B0%EC%9D%B4%EB%8D%94) 셰이더 - 위키백과
-- [셰이더가 뭐에요?](https://www.slideshare.net/jungsoopark104/ss-63417653) 셰이더가 뭐에요? - Jungsoo Park님의 슬라이더 자료
+- [Shader](https://en.wikipedia.org/wiki/Shader) Shader | Wikipedia
 
 ## Interaction
 
