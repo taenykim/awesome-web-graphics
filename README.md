@@ -54,7 +54,7 @@ CSS
 ├── Style
 ├── Layout
 ├── CSS Preprocessor
-├── CSS framework
+├── CSS Framework
 ├── Animation
 ```
 
