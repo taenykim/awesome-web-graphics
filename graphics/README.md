@@ -8,14 +8,12 @@
 - [Graphics | W3C](https://www.w3.org/standards/webdesign/graphics) Graphics | W3C
 - [Web media technologies](https://developer.mozilla.org/en-US/docs/Web/Media) Web media technologies | MDN
 
-
 ## File
 
 - [Filename extension](https://en.wikipedia.org/wiki/Filename_extension) Filename extension | Wikipedia
 - [List of file formats](https://en.wikipedia.org/wiki/List_of_file_formats) List of file formats | Wikipedia
 - [Character encodings for beginners](https://www.w3.org/International/questions/qa-what-is-encoding) Character encodings for beginners | W3C
-- [인코딩](https://namu.wiki/w/%EC%9D%B8%EC%BD%94%EB%94%A9) 🇰🇷 인코딩 | 나무위키
-
+- 🇰🇷[인코딩](https://namu.wiki/w/%EC%9D%B8%EC%BD%94%EB%94%A9) 인코딩 | 나무위키
 
 ## Markup File
 
@@ -39,13 +37,12 @@
 ## Font
 
 - [CSS Fonts Module Level 3](https://www.w3.org/TR/css-fonts-3/) CSS Fonts Module Level 3 | W3C
-- [TTF? OTF? 차이점 알아보기](https://zeddios.tistory.com/198) 🇰🇷 TTF? OTF? 차이점 알아보기 - ZeddiOS
-- [[영감] 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트](https://youtu.be/sb7v-d-R11E) 🇰🇷 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트 - 인터랙티브 디벨로퍼
-- [Google Fonts](https://fonts.google.com/) 📕 Google Font
-- [Adobe Font](https://fonts.adobe.com/) 📕 Adobe Font
-- [DaFont](https://www.dafont.com/) 📕 DaFont
-- [awesome-hangul](https://github.com/lqez/awesome-hangul) 📕🇰🇷 한글 관련 라이브러리 모음 - lqez
-
+- 🇰🇷[TTF? OTF? 차이점 알아보기](https://zeddios.tistory.com/198) TTF? OTF? 차이점 알아보기 - ZeddiOS
+- 🇰🇷[[영감] 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트](https://youtu.be/sb7v-d-R11E) 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트 - 인터랙티브 디벨로퍼
+- 📕[Google Fonts](https://fonts.google.com/) Google Font
+- 📕[Adobe Font](https://fonts.adobe.com/) Adobe Font
+- 📕[DaFont](https://www.dafont.com/) DaFont
+- 📕🇰🇷[awesome-hangul](https://github.com/lqez/awesome-hangul) 한글 관련 라이브러리 모음
 
 ## 👀 How to Contribute?
 

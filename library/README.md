@@ -12,7 +12,7 @@
 - [Google Fonts](https://fonts.google.com/) Google Font
 - [Adobe Font](https://fonts.adobe.com/) Adobe Font
 - [DaFont](https://www.dafont.com/) DaFont
-- [awesome-hangul](https://github.com/lqez/awesome-hangul) 🇰🇷 한글 관련 라이브러리 모음 - lqez
+- 🇰🇷[awesome-hangul](https://github.com/lqez/awesome-hangul) 한글 관련 라이브러리 모음
 
 ## CSS Layout
 

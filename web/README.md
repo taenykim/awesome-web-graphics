@@ -22,9 +22,9 @@
 - [Chromium Blog](https://blog.chromium.org/) Chromium Blog
 - [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path) Critical Rendering Path | Web Google Developers
 - [Rendering Performance](https://developers.google.com/web/fundamentals/performance/renderingo) Rendering Performance | Web Google Developers
-- [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361) 🇰🇷 브라우저는 어떻게 동작하는가? | naver D2
-- [성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE/) 🇰🇷 웹페이지의 로딩과 렌더링 성능 최적화 | TOAST UI
-- [FrontEnd 개발자가 수행하는 성능 개선 작업](https://sculove.github.io/slides/improveBrowserRendering/#/) 🇰🇷 FrontEnd 개발자가 수행하는 성능 개선 작업 - 손찬욱
+- 🇰🇷[브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361) 브라우저는 어떻게 동작하는가? | naver D2
+- 🇰🇷[성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE/) 웹페이지의 로딩과 렌더링 성능 최적화 | TOAST UI
+- 🇰🇷[FrontEnd 개발자가 수행하는 성능 개선 작업](https://sculove.github.io/slides/improveBrowserRendering/#/) FrontEnd 개발자가 수행하는 성능 개선 작업 - 손찬욱
 
 ## 👀 How to Contribute?
 
