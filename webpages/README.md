@@ -4,6 +4,7 @@
 
 - [codepen.io](https://codepen.io/) codepen.io
 - [awwwards](https://www.awwwards.com/) awwwards
+- [CSS Design Awards](https://www.cssdesignawards.com/) CSS Design Awards
 
 ## Interactive pages
 
