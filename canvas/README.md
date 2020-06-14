@@ -6,6 +6,10 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 
 - [canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) canvas API | MDN
 
+## Debugging
+
+- [Canvas Debugging | WebKit](https://webkit.org/blog/8452/canvas-debugging/) Canvas Debugging | WebKit
+
 ## Animation
 
 - [Basic animations | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations) Basic animations | MDN

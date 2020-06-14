@@ -65,6 +65,7 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 ```
 Canvas
 ├── Tutorial
+├── Debugging
 ├── Animation
 ├── Undefined
 ```
