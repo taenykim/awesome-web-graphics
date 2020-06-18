@@ -33,6 +33,7 @@
 
 - [p5.js](https://p5js.org/) A JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else
 - [Fabric.js](http://fabricjs.com/) A powerful and simple Javascript HTML5 canvas library
+- [Konva.js](https://konvajs.org/) HTML5 2d canvas js library for desktop and mobile applications
 
 ## WebGL
 
