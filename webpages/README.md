@@ -17,6 +17,7 @@
 - [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/) SPACEX - ISS Docking Simulator
 - [The Virtual Economy | L'Atelier](https://atelier.net/virtual-economy/) The Virtual Economy | L'Atelier
 - [The A-Z of AI](https://atozofai.withgoogle.com/intl/en-US/) The A-Z of AI
+- [Alan Menken](https://www.alanmenken.com/) Alan Menken
 - 🇰🇷[JSConf Korea 2020 | JSConf Korea](https://jsconfkorea.com/ko) JSConf Korea 2020 | JSConf Korea
 - 🇰🇷[중앙일보 - 그 곳 판문점](https://news.joins.com/digitalspecial/290) 중앙일보 - 그 곳 판문점
 
