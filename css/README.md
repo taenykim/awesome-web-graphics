@@ -14,6 +14,7 @@
 
 - [Redesigning your product and website for dark mode](https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode) Redesigning your product and website for dark mode - Andy Clarke
 - [CSS Gradient](https://cssgradient.io/) CSS Gradient Generator
+- [Transparent Textures](https://www.transparenttextures.com/) Transparent Textures Generator
 
 ## CSS Layout
 
