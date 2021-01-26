@@ -1,5 +1,15 @@
 # 📕 Library
 
+Libraries relating to Graphics
+
+- [Font](#font)
+- [CSS Layout](#css-layout)
+- [CSS Preprocessor](#css-preprocessor)
+- [CSS Framework](#css-framework)
+- [CSS Animation](#css-animation)
+- [Canvas](#canvas)
+- [WebGL](#webgl)
+
 ## Font
 
 - [Google Fonts](https://fonts.google.com/) Google Font
@@ -39,7 +49,3 @@
 
 - [PixyJS](https://www.pixijs.com/) The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer
 - [three.js](https://threejs.org/) JavaScript 3D library
-
-## 👀 How to Contribute?
-
-coming soon..!
