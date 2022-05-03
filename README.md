@@ -6,17 +6,26 @@
     <img src="https://img.shields.io/badge/version-beta-blue" />
     <div>
         <div>🎨 A collection of WEB Graphics 💄</div><br/>
-        <a href="#-web-graphics">web graphics</a> 
-        | <a href="#-dom">DOM</a>  |
-        <a href="#-css">CSS</a> | <a href="#-svg">SVG</a>  
-        |
-        <a href="#-canvas">canvas</a> 
-        |
-        <a href="#%EF%B8%8F-webgl">webGL</a> |
-        <a href="#-etc">etc</a>
     </div>
 </div>
 <br/>
+
+- [Web Graphics](#-web-graphics)
+  - [Browser](#browser)
+  - [Graphics](#graphics)
+  - [Font](#font)
+  - [Images](#images)
+  - [Article](#article)
+- [DOM](#-dom)
+  - [HTML](#html)
+  - [Videos](#videos)
+- [CSS](#-css)
+  - [Basic](#basic)
+  - [CSS Style](#css-style)
+  - [CSS Layout](#css-layout)
+  - [CSS Preprocessor](#css-preprocessor)
+  - [CSS Framework](#css-framework)
+  - [CSS Animation](#css-animation)
 
 ## 🌎 Web Graphics
 
