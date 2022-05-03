@@ -20,7 +20,42 @@
 
 ## 🌎 Web Graphics
 
+**The World Wide Web (WWW)** is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs, such as `https://www.example.com/`), which may be interlinked by hypertext, and are accessible over the Internet. -[Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+
 **Web graphics** are visual representations used on a Web site to enhance or enable the representation of an idea or feeling, in order to reach the Web site user. Graphics may entertain, educate, or emotionally impact the user, and are crucial to strength of branding, clarity of illustration, and ease of use for interfaces. - [W3C](https://www.w3.org/standards/webdesign/graphics)
+
+### Browser
+
+- [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) How Browsers Work: Behind the scenes of modern web browsers - Tali Garsiel
+- [Chromium Blog](https://blog.chromium.org/) Chromium Blog
+- [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path) Critical Rendering Path | Web Google Developers
+- [Fast load times](https://web.dev/fast/) Fast load times | web.dev
+- 🇰🇷[브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361) 브라우저는 어떻게 동작하는가? | naver D2
+- 🇰🇷[성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE/) 웹페이지의 로딩과 렌더링 성능 최적화 | TOAST UI
+
+### Graphics
+
+- [Graphics | Wikipedia](https://en.wikipedia.org/wiki/Graphics) Graphics | Wikipedia
+- [Graphics | W3C](https://www.w3.org/standards/webdesign/graphics) Graphics | W3C
+- [Web media technologies](https://developer.mozilla.org/en-US/docs/Web/Media) Web media technologies | MDN
+
+### Font
+
+- [CSS Fonts Module Level 3](https://www.w3.org/TR/css-fonts-3/) CSS Fonts Module Level 3 | W3C
+- 🇰🇷[TTF? OTF? 차이점 알아보기](https://zeddios.tistory.com/198) TTF? OTF? 차이점 알아보기 - ZeddiOS
+- 🇰🇷[[영감] 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트](https://youtu.be/sb7v-d-R11E) 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트 - 인터랙티브 디벨로퍼
+- 📕[Google Fonts](https://fonts.google.com/) Google Font
+- 📕[Adobe Font](https://fonts.adobe.com/) Adobe Font
+- 📕[DaFont](https://www.dafont.com/) DaFont
+- 📕🇰🇷[awesome-hangul](https://github.com/lqez/awesome-hangul) 한글 관련 라이브러리 모음
+
+### Images
+
+- [What are the different usecases of PNG vs. GIF vs. JPEG vs. SVG?](https://stackoverflow.com/questions/2336522/what-are-the-different-usecases-of-png-vs-gif-vs-jpeg-vs-svg) What are the different usecases of PNG vs. GIF vs. JPEG vs. SVG? | stack overflow
+
+### Article
+
+- [Move over, data visualization. The era of ‘data simulation’ is here](https://www.fastcompany.com/90508780/move-over-data-visualization-the-era-of-data-simulation-is-here?fbclid=IwAR2NcDdhYZV68fpsIaJXzmD0u8Lq2vVSFT7434-Qc1bxRxqdwy_ECh6--X0) Move over, data visualization. The era of ‘data simulation’ is here - Amanda Makulec
 
 ## 🕹 DOM
 
