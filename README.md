@@ -28,6 +28,10 @@
   - [CSS Animation](#css-animation)
 - [SVG](#-svg)
 - [Canvas](#-canvas)
+  - [Basic](#basic-1)
+  - [Debugging](#debugging)
+  - [Animation](#animation)
+  - [Undefined](#undefined)
 
 ## 🌎 Web Graphics
 
