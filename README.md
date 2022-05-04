@@ -94,6 +94,10 @@ The DOM (Document Object Model) is an API that represents and interacts with any
 - [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) Video and audio content | MDN
 - [Manipulating video using canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas) Manipulating video using canvas | MDN
 
+### Animation
+
+- 📕[GSAP](https://github.com/greensock/GSAP) GSAP (GreenSock Animation Platform)
+
 ## 💄 CSS
 
 **Cascading Style Sheets (CSS)** is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
