@@ -201,6 +201,7 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 - [나의 버건디 팔면체 : Three.js를 사용한 3D 그래픽스 입문기](https://ahnheejong.name/articles/my-first-octahedron/) 나의 버건디 팔면체 : Three.js를 사용한 3D 그래픽스 입문기
 - 📕[PixyJS](https://www.pixijs.com/) The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer
 - 📕[three.js](https://threejs.org/) JavaScript 3D library
+- [Arno Di Nunzio — Freelance creative developer](https://adinunz.io/) Arno Di Nunzio — Freelance creative developer
 
 ## 🌈 ETC
 
