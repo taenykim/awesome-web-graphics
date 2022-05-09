@@ -55,22 +55,22 @@
 
 ### Browser
 
-- [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) How Browsers Work: Behind the scenes of modern web browsers - Tali Garsiel
-- [Chromium Blog](https://blog.chromium.org/) Chromium Blog
-- [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path) Critical Rendering Path | Web Google Developers
-- [Fast load times](https://web.dev/fast/) Fast load times | web.dev
-- 🇰🇷[브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361) 브라우저는 어떻게 동작하는가? | naver D2
-- 🇰🇷[성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE/) 웹페이지의 로딩과 렌더링 성능 최적화 | TOAST UI
+- [ How Browsers Work: Behind the scenes of modern web browsers - Tali Garsiel](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [Chromium Blog](https://blog.chromium.org/)
+- [Critical Rendering Path | Web Google Developers](https://developers.google.com/web/fundamentals/performance/critical-rendering-path)
+- [Fast load times | web.dev](https://web.dev/fast/)
+- 🇰🇷[브라우저는 어떻게 동작하는가? | naver D2](https://d2.naver.com/helloworld/59361)
+- 🇰🇷[웹페이지의 로딩과 렌더링 성능 최적화 | TOAST UI](https://ui.toast.com/fe-guide/ko_PERFORMANCE/)
 
 ### Font
 
-- [CSS Fonts Module Level 3](https://www.w3.org/TR/css-fonts-3/) CSS Fonts Module Level 3 | W3C
-- 🇰🇷[TTF? OTF? 차이점 알아보기](https://zeddios.tistory.com/198) TTF? OTF? 차이점 알아보기 - ZeddiOS
-- 🇰🇷[[영감] 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트](https://youtu.be/sb7v-d-R11E) 리온산스 - 아들을 위해 디자인한 코드로 만든 폰트 - 인터랙티브 디벨로퍼
-- 📕[Google Fonts](https://fonts.google.com/) Google Font
-- 📕[Adobe Font](https://fonts.adobe.com/) Adobe Font
-- 📕[DaFont](https://www.dafont.com/) DaFont
-- 📕🇰🇷[awesome-hangul](https://github.com/lqez/awesome-hangul) 한글 관련 라이브러리 모음
+- [CSS Fonts Module Level 3 | W3C](https://www.w3.org/TR/css-fonts-3/)
+- 🇰🇷[TTF? OTF? 차이점 알아보기 - ZeddiOS](https://zeddios.tistory.com/198)
+- 🇰🇷[리온산스 - 아들을 위해 디자인한 코드로 만든 폰트 - 인터랙티브 디벨로퍼](https://youtu.be/sb7v-d-R11E)
+- 📕[Google Fonts](https://fonts.google.com/)
+- 📕[Adobe Font](https://fonts.adobe.com/)
+- 📕[DaFont](https://www.dafont.com/)
+- 📕🇰🇷[awesome-hangul](https://github.com/lqez/awesome-hangul)
 
 ### Articles
 
