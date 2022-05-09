@@ -11,17 +11,16 @@
 <br/>
 
 - [Web Graphics](#-web-graphics)
+  - [Basic](#basic)
   - [Browser](#browser)
-  - [Graphics](#graphics)
   - [Font](#font)
-  - [Images](#images)
-  - [Article](#article)
+  - [Articles](#articles)
 - [DOM](#-dom)
   - [HTML](#html)
   - [Videos](#videos)
   - [Animation](#animation)
 - [CSS](#-css)
-  - [Basic](#basic)
+  - [Basic](#basic-1)
   - [CSS Style](#css-style)
   - [CSS Layout](#css-layout)
   - [CSS Preprocessor](#css-preprocessor)
@@ -29,12 +28,12 @@
   - [CSS Animation](#css-animation)
 - [SVG](#-svg)
 - [Canvas](#-canvas)
-  - [Basic](#basic-1)
+  - [Basic](#basic-2)
   - [Debugging](#debugging)
   - [Animation](#animation-1)
   - [Undefined](#undefined)
 - [WebGL](#%EF%B8%8F-webgl)
-  - [Basic](#basic-2)
+  - [Basic](#basic-3)
   - [Shader](#shader)
   - [Interaction](#interaction)
   - [Undefined](#undefined-1)
@@ -48,6 +47,12 @@
 
 **Web graphics** are visual representations used on a Web site to enhance or enable the representation of an idea or feeling, in order to reach the Web site user. Graphics may entertain, educate, or emotionally impact the user, and are crucial to strength of branding, clarity of illustration, and ease of use for interfaces. - [W3C](https://www.w3.org/standards/webdesign/graphics)
 
+### Basic
+
+- [Graphics | Wikipedia](https://en.wikipedia.org/wiki/Graphics)
+- [Graphics | W3C](https://www.w3.org/standards/webdesign/graphics)
+- [Web media technologies | MDN](https://developer.mozilla.org/en-US/docs/Web/Media)
+
 ### Browser
 
 - [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) How Browsers Work: Behind the scenes of modern web browsers - Tali Garsiel
@@ -56,12 +61,6 @@
 - [Fast load times](https://web.dev/fast/) Fast load times | web.dev
 - 🇰🇷[브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361) 브라우저는 어떻게 동작하는가? | naver D2
 - 🇰🇷[성능 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE/) 웹페이지의 로딩과 렌더링 성능 최적화 | TOAST UI
-
-### Graphics
-
-- [Graphics | Wikipedia](https://en.wikipedia.org/wiki/Graphics) Graphics | Wikipedia
-- [Graphics | W3C](https://www.w3.org/standards/webdesign/graphics) Graphics | W3C
-- [Web media technologies](https://developer.mozilla.org/en-US/docs/Web/Media) Web media technologies | MDN
 
 ### Font
 
@@ -73,11 +72,9 @@
 - 📕[DaFont](https://www.dafont.com/) DaFont
 - 📕🇰🇷[awesome-hangul](https://github.com/lqez/awesome-hangul) 한글 관련 라이브러리 모음
 
-### Images
+### Articles
 
 - [What are the different usecases of PNG vs. GIF vs. JPEG vs. SVG?](https://stackoverflow.com/questions/2336522/what-are-the-different-usecases-of-png-vs-gif-vs-jpeg-vs-svg) What are the different usecases of PNG vs. GIF vs. JPEG vs. SVG? | stack overflow
-
-### Article
 
 - [Move over, data visualization. The era of ‘data simulation’ is here](https://www.fastcompany.com/90508780/move-over-data-visualization-the-era-of-data-simulation-is-here?fbclid=IwAR2NcDdhYZV68fpsIaJXzmD0u8Lq2vVSFT7434-Qc1bxRxqdwy_ECh6--X0) Move over, data visualization. The era of ‘data simulation’ is here - Amanda Makulec
 
