@@ -29,14 +29,12 @@
 - [SVG](#-svg)
 - [Canvas](#-canvas)
   - [Basic](#basic-2)
-  - [Debugging](#debugging)
-  - [Animation](#animation-1)
-  - [Undefined](#undefined)
+  - [Library](#library)
+  - [Articles](#articles-1)
 - [WebGL](#%EF%B8%8F-webgl)
   - [Basic](#basic-3)
-  - [Shader](#shader)
-  - [Interaction](#interaction)
-  - [Undefined](#undefined-1)
+  - [Library](#library-1)
+  - [Articles](#articles-2)
 - [ETC](#-etc)
   - [Reference Site](#reference-site)
   - [Interactive pages](#interactive-pages)
@@ -148,25 +146,20 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 
 ### Basic
 
-- [canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) canvas API | MDN
+- [canvas API | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+- [Canvas Debugging | WebKit](https://webkit.org/blog/8452/canvas-debugging/)
+- [Basic animations | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations)
 
-### Debugging
+### Library
 
-- [Canvas Debugging | WebKit](https://webkit.org/blog/8452/canvas-debugging/) Canvas Debugging | WebKit
+- 📕[p5.js](https://p5js.org/)
+- 📕[Fabric.js](http://fabricjs.com/)
+- 📕[Konva.js](https://konvajs.org/)
 
-### Animation
+### Articles
 
-- [Basic animations | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations) Basic animations | MDN
-
-### Undefined
-
-- [[Track 1-4] 유상엽 - HTML Canvas 어디까지 써봤니](https://youtu.be/SmgIcbMQEGw) FEConf Korea 강연
-- [SVG와 CANVAS 사이의 선택](https://techbug.tistory.com/207) svg와 canvas 비교글
-- 📕[p5.js](https://p5js.org/) A JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else
-- 📕[Fabric.js](http://fabricjs.com/) A powerful and simple Javascript HTML5 canvas library
-- 📕[Konva.js](https://konvajs.org/) HTML5 2d canvas js library for desktop and mobile applications
-- [Move over, data visualization. The era of ‘data simulation’ is here](https://www.fastcompany.com/90508780/move-over-data-visualization-the-era-of-data-simulation-is-here?fbclid=IwAR2NcDdhYZV68fpsIaJXzmD0u8Lq2vVSFT7434-Qc1bxRxqdwy_ECh6--X0) Move over, data visualization. The era of ‘data simulation’ is here - Amanda Makulec
-- [Interactive Developer - YouTube](https://www.youtube.com/c/cmiscm) Interactive Developer - YouTube
+- 🇰🇷[[Track 1-4] 유상엽 - HTML Canvas 어디까지 써봤니 | FEConf Korea](https://youtu.be/SmgIcbMQEGw)
+- 🇰🇷[SVG와 CANVAS 사이의 선택](https://techbug.tistory.com/207)
 
 ## 🤹‍♀️ WebGL
 
@@ -174,30 +167,25 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 
 ### Basic
 
-- [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API) WebGL | MDN
-- [WebGL Fundamentals](https://webglfundamentals.org/) webGL Fundamentals - a set of articles that teach WebGL from basic principles
-- [webGL Guide - Maxime Euzière](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1) WebGL Guide - Maxime Euzière
-- [WebGL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/webgl/index.htm) WebGL Tutorial - Tutorialspoint
-- [The OpenGL® ES Shading Language](http://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf) The OpenGL® ES Shading Language spec
-- [Matrix math for the web | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Matrix_math_for_the_web) Matrix math for the web
-- 🇰🇷[OpenGL - 나무위키](https://namu.wiki/w/OpenGL) OpenGL - 나무위키
+- [WebGL - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/WebGL_API)
+- [WebGL Fundamentals](https://webglfundamentals.org/)
+- [webGL Guide - Maxime Euzière](https://xem.github.io/articles/webgl-guide.html?fbclid=IwAR1tjeDBtiTnx1Ul2ysvmWnkQeQ7-HQYVpcVN1Rq3nz-ESs2SwCEHngIve8#1)
+- [WebGL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/webgl/index.htm)
+- [The OpenGL® ES Shading Language specs](http://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf)
+- [Matrix math for the web | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Matrix_math_for_the_web)
+- 🇰🇷[OpenGL - 나무위키](https://namu.wiki/w/OpenGL)
+- [User Interaction in WebGL - CRAN](https://cran.r-project.org/web/packages/rgl/vignettes/WebGL.html)
 
-### Shader
+### Library
 
-- [Shader](https://en.wikipedia.org/wiki/Shader) Shader | Wikipedia
+- 📕[PixyJS](https://www.pixijs.com/)
+- 📕[three.js](https://threejs.org/)
 
-### Interaction
+### Articles
 
-- [User Interaction in WebGL](https://cran.r-project.org/web/packages/rgl/vignettes/WebGL.html) User Interaction in WebGL - CRAN
-
-### Undefined
-
-- [[A3] 생각보다 쉬운 webGL (feat. three.js) - 전기환](https://youtu.be/b3vP6wfpqWE) FEConf Korea 강연
-- [Canvas & WebGL을 이용한 이미지 필터 제작](https://youtu.be/EGk-Q9f0Nqg) Naver D2
-- [나의 버건디 팔면체 : Three.js를 사용한 3D 그래픽스 입문기](https://ahnheejong.name/articles/my-first-octahedron/) 나의 버건디 팔면체 : Three.js를 사용한 3D 그래픽스 입문기
-- 📕[PixyJS](https://www.pixijs.com/) The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer
-- 📕[three.js](https://threejs.org/) JavaScript 3D library
-- [Arno Di Nunzio — Freelance creative developer](https://adinunz.io/) Arno Di Nunzio — Freelance creative developer
+- 🇰🇷[[A3] 생각보다 쉬운 webGL (feat. three.js) - 전기환 | FEConf Korea](https://youtu.be/b3vP6wfpqWE)
+- 🇰🇷[Canvas & WebGL을 이용한 이미지 필터 제작 | Naver D2](https://youtu.be/EGk-Q9f0Nqg)
+- 🇰🇷[나의 버건디 팔면체 : Three.js를 사용한 3D 그래픽스 입문기](https://ahnheejong.name/articles/my-first-octahedron/)
 
 ## 🌈 ETC
 
@@ -206,6 +194,7 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 - [codepen.io](https://codepen.io/) codepen.io
 - [awwwards](https://www.awwwards.com/) awwwards
 - [CSS Design Awards](https://www.cssdesignawards.com/) CSS Design Awards
+- [Interactive Developer - YouTube](https://www.youtube.com/c/cmiscm) Interactive Developer - YouTube
 
 ### Interactive pages
 
@@ -222,3 +211,4 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 - 🇰🇷[JSConf Korea 2020 | JSConf Korea](https://jsconfkorea.com/ko) JSConf Korea 2020 | JSConf Korea
 - 🇰🇷[중앙일보 - 그 곳 판문점](https://news.joins.com/digitalspecial/290) 중앙일보 - 그 곳 판문점
 - 🇰🇷[NC SOFT](https://kr.ncsoft.com/kr/index.do) NC SOFT
+- [Arno Di Nunzio — Freelance creative developer](https://adinunz.io/) Arno Di Nunzio — Freelance creative developer
