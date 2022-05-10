@@ -14,17 +14,17 @@
   - [Basic](#basic)
   - [Browser](#browser)
   - [Font](#font)
+  - [Image](#image)
+  - [Video](#video)
   - [Articles](#articles)
 - [DOM](#-dom)
   - [HTML](#html)
-  - [Videos](#videos)
   - [Animation](#animation)
 - [CSS](#-css)
   - [Basic](#basic-1)
   - [CSS Style](#css-style)
   - [CSS Layout](#css-layout)
-  - [CSS Preprocessor](#css-preprocessor)
-  - [CSS Framework](#css-framework)
+  - [CSS System](#css-system)
   - [CSS Animation](#css-animation)
 - [SVG](#-svg)
 - [Canvas](#-canvas)
@@ -72,11 +72,18 @@
 - 📕[DaFont](https://www.dafont.com/)
 - 📕🇰🇷[awesome-hangul](https://github.com/lqez/awesome-hangul)
 
+### Image
+
+- [What are the different usecases of PNG vs. GIF vs. JPEG vs. SVG? | stack overflow](https://stackoverflow.com/questions/2336522/what-are-the-different-usecases-of-png-vs-gif-vs-jpeg-vs-svg)
+
+### Video
+
+- [Video and audio content | MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+- [Manipulating video using canvas | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
+
 ### Articles
 
-- [What are the different usecases of PNG vs. GIF vs. JPEG vs. SVG?](https://stackoverflow.com/questions/2336522/what-are-the-different-usecases-of-png-vs-gif-vs-jpeg-vs-svg) What are the different usecases of PNG vs. GIF vs. JPEG vs. SVG? | stack overflow
-
-- [Move over, data visualization. The era of ‘data simulation’ is here](https://www.fastcompany.com/90508780/move-over-data-visualization-the-era-of-data-simulation-is-here?fbclid=IwAR2NcDdhYZV68fpsIaJXzmD0u8Lq2vVSFT7434-Qc1bxRxqdwy_ECh6--X0) Move over, data visualization. The era of ‘data simulation’ is here - Amanda Makulec
+- [Move over, data visualization. The era of ‘data simulation’ is here - Amanda Makulec](https://www.fastcompany.com/90508780/move-over-data-visualization-the-era-of-data-simulation-is-here?fbclid=IwAR2NcDdhYZV68fpsIaJXzmD0u8Lq2vVSFT7434-Qc1bxRxqdwy_ECh6--X0)
 
 ## 🕹 DOM
 
@@ -84,17 +91,12 @@ The DOM (Document Object Model) is an API that represents and interacts with any
 
 ### HTML
 
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) HTML5 | MDN
-- [HTML Standard](https://html.spec.whatwg.org/multipage/) HTML Standard | html.spec.whatwg.org
-
-### Videos
-
-- [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) Video and audio content | MDN
-- [Manipulating video using canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas) Manipulating video using canvas | MDN
+- [HTML5 | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [HTML Standard | html.spec.whatwg.org](https://html.spec.whatwg.org/multipage/)
 
 ### Animation
 
-- 📕[GSAP](https://github.com/greensock/GSAP) GSAP (GreenSock Animation Platform)
+- 📕[GSAP (GreenSock Animation Platform)](https://github.com/greensock/GSAP)
 
 ## 💄 CSS
 
@@ -102,42 +104,39 @@ The DOM (Document Object Model) is an API that represents and interacts with any
 
 ### Basic
 
-- [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS: Cascading Style Sheets | MDN
-- [CSS Diner](http://flukeout.github.io/) CSS Selectors Game
+- [CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS Diner](http://flukeout.github.io/)
 
 ### CSS Style
 
-- [Redesigning your product and website for dark mode](https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode) Redesigning your product and website for dark mode - Andy Clarke
-- 📕[CSS Gradient](https://cssgradient.io/) CSS Gradient Generator
-- 📕[Transparent Textures](https://www.transparenttextures.com/) Transparent Textures Generator
+- [Redesigning your product and website for dark mode - Andy Clarke](https://stuffandnonsense.co.uk/blog/redesigning-your-product-and-website-for-dark-mode)
+- 📕[CSS Gradient](https://cssgradient.io/)
+- 📕[Transparent Textures](https://www.transparenttextures.com/)
 
 ### CSS Layout
 
-- [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv) Flexbox playground | CodePen
-- [CSS Layout](https://csslayout.io/) a collection of popular layouts and patterns made with CSS
-- [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176) 🇰🇷 flexbox로 만들 수 있는 10가지 레이아웃 | Naver D2
-- 📕[Mansory](https://masonry.desandro.com/) Cascading grid layout library
-- 📕[Muuri](https://muuri.dev/) Responsive, sortable, filterable and draggable grid layouts Library
+- [Flexbox playground | CodePen](https://codepen.io/enxaneta/full/adLPwv)
+- [A collection of popular layouts and patterns made with CSS - CSS Layout](https://csslayout.io/)
+- 🇰🇷[flexbox로 만들 수 있는 10가지 레이아웃 | Naver D2](https://d2.naver.com/helloworld/8540176)
+- 📕[Mansory | Cascading grid layout library](https://masonry.desandro.com/)
+- 📕[Muuri - Infinite layouts with batteries included](https://muuri.dev/)
 
-### CSS Preprocessor
+### CSS System
 
 - 📕[SASS](https://sass-lang.com/) SASS
-
-### CSS framework
-
-- 📕[styled-components](https://styled-components.com/) styled-components
-- 📕[Material-UI](https://material-ui.com/) Material UI
-- 📕[Ant Design](https://ant.design/) Ant Design
+- 📕[styled-components](https://styled-components.com/)
+- 📕[Material-UI](https://material-ui.com/)
+- 📕[Ant Design](https://ant.design/)
 
 ### CSS Animation
 
-- [Performance monitoring in CSS animations](https://medium.com/chegg/performance-monitoring-in-css-animations-f11a21d0054f) Performance monitoring in CSS animations - Virendra Singh
-- 📕[Ceaser](https://matthewlein.com/tools/ceaser) CSS Easing Animation Tool
-- 📕[Lottie](https://airbnb.io/lottie/#/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web
-- 📕[Barba.js](https://barba.js.org/) a small and easy-to-use library that helps you create fluid and smooth transitions between your website’s pages
-- 📕[Scene.js](https://daybrush.com/scenejs/) JavaScript & CSS timeline-based animation library
-- 🇰🇷[CSS 애니메이션의 성능 아는 만큼 좋아져요!](https://wit.nts-corp.com/2020/06/05/6134?fbclid=IwAR147toQIEWLcrZAvkrHmbupRMpqk-AqQuLBGFvh2EWiu_WSnHbz1sEQeKU) CSS 애니메이션의 성능 아는 만큼 좋아져요! | WIT블로그
-- 🇰🇷[최연규 - 3달간 GitHub 스타3K받은 Scene js,Moveable 오픈소스 개발기](https://youtu.be/3HVQhbtALDE) 최연규 - 3달간 GitHub 스타3K받은 Scene js,Moveable 오픈소스 개발기 | FE CONF
+- [Performance monitoring in CSS animations - Virendra Singh](https://medium.com/chegg/performance-monitoring-in-css-animations-f11a21d0054f)
+- 📕[Ceaser - CSS Easing Animation Tool](https://matthewlein.com/tools/ceaser)
+- 📕[Lottie](https://airbnb.io/lottie/#/)
+- 📕[Barba.js](https://barba.js.org/)
+- 📕[Scene.js](https://daybrush.com/scenejs/)
+- 🇰🇷[CSS 애니메이션의 성능 아는 만큼 좋아져요! | WIT블로그](https://wit.nts-corp.com/2020/06/05/6134?fbclid=IwAR147toQIEWLcrZAvkrHmbupRMpqk-AqQuLBGFvh2EWiu_WSnHbz1sEQeKU)
+- 🇰🇷[최연규 - 3달간 GitHub 스타3K받은 Scene js,Moveable 오픈소스 개발기 | FE CONF](https://youtu.be/3HVQhbtALDE)
 
 ## 📐 SVG
 
