@@ -95,6 +95,7 @@ The DOM (Document Object Model) is an API that represents and interacts with any
 ### Animation
 
 - 📕[GSAP (GreenSock Animation Platform)](https://github.com/greensock/GSAP)
+- [10+ Best JavaScript Animation Libraries to Use in 2022](https://www.codeinwp.com/blog/best-javascript-animation-libraries/)
 
 ## 💄 CSS
 
