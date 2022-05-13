@@ -213,3 +213,4 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 - 🇰🇷[중앙일보 - 그 곳 판문점](https://news.joins.com/digitalspecial/290) 중앙일보 - 그 곳 판문점
 - 🇰🇷[NC SOFT](https://kr.ncsoft.com/kr/index.do) NC SOFT
 - [Arno Di Nunzio — Freelance creative developer](https://adinunz.io/) Arno Di Nunzio — Freelance creative developer
+- [bruno-simon](https://bruno-simon.com/)
