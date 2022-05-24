@@ -194,10 +194,10 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 
 ### Reference Site
 
-- [codepen.io](https://codepen.io/) codepen.io
-- [awwwards](https://www.awwwards.com/) awwwards
-- [CSS Design Awards](https://www.cssdesignawards.com/) CSS Design Awards
-- [Interactive Developer - YouTube](https://www.youtube.com/c/cmiscm) Interactive Developer - YouTube
+- [codepen.io](https://codepen.io/)
+- [awwwards](https://www.awwwards.com/
+- [CSS Design Awards](https://www.cssdesignawards.com/)
+- [Interactive Developer - YouTube](https://www.youtube.com/c/cmiscm)
 
 ### Interactive pages
 
