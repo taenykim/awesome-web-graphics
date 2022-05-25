@@ -141,6 +141,8 @@ The DOM (Document Object Model) is an API that represents and interacts with any
 
 **Scalable Vector Graphics (SVG)** is a 2D vector image format based on an XML syntax. As a vector image format, SVG graphics can scale infinitely, making them invaluable in responsive design, since you can create interface elements and graphics that scale to any screen size. SVG also provides a useful set of tools, such as clipping, masking, filters, and animations. - [MDN](https://developer.mozilla.org/en-US/docs/Glossary/SVG)
 
+- [A Deep Dive Into The Wonderful World Of SVG Displacement Filtering — Smashing Magazine](https://www.smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/)
+
 ## 🎨 Canvas
 
 The **Canvas API** provides a means for drawing graphics via JavaScript and the HTML `<canvas>` element. Among other things, it can be used for animation, game graphics, data visualization, photo manipulation, and real-time video processing. - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
