@@ -204,7 +204,7 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 
 ### Interactive pages
 
-- [How big is the DMZ? - Washington Post](https://www.washingtonpost.com/graphics/2017/world/mapping-the-dmz/?noredirect=on) Washington Post
+- [How big is the DMZ? - Washington Post](https://www.washingtonpost.com/graphics/2017/world/mapping-the-dmz/?noredirect=on)
 - [apple - AirPods Pro](https://www.apple.com/kr/airpods-pro/) apple
 - [&lt;Yasio/&gt; Portfolio](https://yasio.pl/) Yasio portfolio
 - [TULP interactive](http://tulpinteractive.com/) TULP interactive
