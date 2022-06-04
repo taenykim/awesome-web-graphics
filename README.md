@@ -159,6 +159,7 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 - 📕[p5.js](https://p5js.org/)
 - 📕[Fabric.js](http://fabricjs.com/)
 - 📕[Konva.js](https://konvajs.org/)
+- 📕[html2canvas](https://github.com/niklasvh/html2canvas)
 
 ### Articles
 
