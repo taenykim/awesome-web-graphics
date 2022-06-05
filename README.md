@@ -199,7 +199,7 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 ### Reference Site
 
 - [codepen.io](https://codepen.io/)
-- [awwwards](https://www.awwwards.com/
+- [awwwards](https://www.awwwards.com/)
 - [CSS Design Awards](https://www.cssdesignawards.com/)
 - [Interactive Developer - YouTube](https://www.youtube.com/c/cmiscm)
 
