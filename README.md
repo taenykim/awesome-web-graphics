@@ -206,19 +206,19 @@ The **Canvas API** provides a means for drawing graphics via JavaScript and the 
 ### Interactive pages
 
 - [How big is the DMZ? - Washington Post](https://www.washingtonpost.com/graphics/2017/world/mapping-the-dmz/?noredirect=on)
-- [apple - AirPods Pro](https://www.apple.com/kr/airpods-pro/) apple
-- [&lt;Yasio/&gt; Portfolio](https://yasio.pl/) Yasio portfolio
-- [TULP interactive](http://tulpinteractive.com/) TULP interactive
-- [Google I/O Collaboration of the cosmos](https://events.google.com/io/mission/) Google I/O Collaboration of the cosmos
-- [30 experimental webgl websites](https://www.awwwards.com/30-experimental-webgl-websites.html) 30 experimental webgl websites | awwwards
-- [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/) SPACEX - ISS Docking Simulator
-- [The Virtual Economy | L'Atelier](https://atelier.net/virtual-economy/) The Virtual Economy | L'Atelier
-- [The A-Z of AI](https://atozofai.withgoogle.com/intl/en-US/) The A-Z of AI
-- [Alan Menken](https://www.alanmenken.com/) Alan Menken
-- 🇰🇷[JSConf Korea 2020 | JSConf Korea](https://jsconfkorea.com/ko) JSConf Korea 2020 | JSConf Korea
-- 🇰🇷[중앙일보 - 그 곳 판문점](https://news.joins.com/digitalspecial/290) 중앙일보 - 그 곳 판문점
-- 🇰🇷[NC SOFT](https://kr.ncsoft.com/kr/index.do) NC SOFT
-- [Arno Di Nunzio — Freelance creative developer](https://adinunz.io/) Arno Di Nunzio — Freelance creative developer
+- [apple - AirPods Pro](https://www.apple.com/kr/airpods-pro/)
+- [&lt;Yasio/&gt; Portfolio](https://yasio.pl/)
+- [TULP interactive](http://tulpinteractive.com/)
+- [Google I/O Collaboration of the cosmos](https://events.google.com/io/mission/)
+- [30 experimental webgl websites](https://www.awwwards.com/30-experimental-webgl-websites.html)
+- [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/)
+- [The Virtual Economy | L'Atelier](https://atelier.net/virtual-economy/)
+- [The A-Z of AI](https://atozofai.withgoogle.com/intl/en-US/)
+- [Alan Menken](https://www.alanmenken.com/)
+- 🇰🇷[JSConf Korea 2020 | JSConf Korea](https://jsconfkorea.com/ko)
+- 🇰🇷[중앙일보 - 그 곳 판문점](https://news.joins.com/digitalspecial/290)
+- 🇰🇷[NC SOFT](https://kr.ncsoft.com/kr/index.do)
+- [Arno Di Nunzio — Freelance creative developer](https://adinunz.io/)
 - [bruno-simon](https://bruno-simon.com/)
 - [https://www.cassie.codes/](https://www.cassie.codes/)
 
