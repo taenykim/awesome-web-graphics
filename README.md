@@ -69,6 +69,7 @@
 - 📕[Adobe Font](https://fonts.adobe.com/)
 - 📕[DaFont](https://www.dafont.com/)
 - 📕🇰🇷[awesome-hangul](https://github.com/lqez/awesome-hangul)
+- 📕🇰🇷[눈누](https://noonnu.cc/)
 
 ### Image
 
