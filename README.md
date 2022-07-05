@@ -14,6 +14,7 @@
   - [Basic](#basic)
   - [Browser](#browser)
   - [Font](#font)
+  - [Color](#color)
   - [Image](#image)
   - [Video](#video)
   - [Articles](#articles)
@@ -70,6 +71,10 @@
 - 📕[DaFont](https://www.dafont.com/)
 - 📕🇰🇷[awesome-hangul](https://github.com/lqez/awesome-hangul)
 - 📕🇰🇷[눈누](https://noonnu.cc/)
+
+### Color
+
+- [Picular - A rocket fast primary color generator using Google’s image search [picular.co]](https://picular.co/)
 
 ### Image
 
